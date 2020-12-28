@@ -1,6 +1,6 @@
 ---
 title: It's a Hanukkah Miracle
-subtitle: Optional Project Subtitle
+subtitle: ''
 date: '2019-04-30'
 thumb_image: images/2_thumb.jpg
 image: images/2.jpg

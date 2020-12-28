@@ -1,5 +1,5 @@
 ---
-title: 'Christmas Tree Fights to the '
+title: Christmas Tree Fights to the Death
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image: images/4_thumb.jpg

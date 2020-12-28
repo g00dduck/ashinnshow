@@ -1,7 +1,7 @@
 ---
 title: Christmas Tree Fights to the Death
 subtitle: Season 5 Episode 10
-date: '2019-01-26'
+date: ''
 thumb_image: images/4_thumb.jpg
 image: images/4.jpg
 template: project

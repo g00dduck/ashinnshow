@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: Hi; we're the Shinn's!
     content: >
       A Shinn Show is a production of Shinnfluence, and features the voices and
       opinions of the Shinn family (it's... their own opinions, nobody else's).

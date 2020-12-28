@@ -1,7 +1,7 @@
 ---
 title: It's a Hanukkah Miracle
 subtitle: Season 5 Episode 12
-date: '2019-04-30'
+date: '2019-05-30'
 thumb_image: images/2_thumb.jpg
 image: images/2.jpg
 template: project

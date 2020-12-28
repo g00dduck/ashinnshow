@@ -1,7 +1,7 @@
 ---
 title: Ted Cruze Kills a Sacred Moose
 subtitle: Season 5 Episode 8
-date: '2020-12-18'
+date: '2020-11-18'
 thumb_image: images/6_thumb.jpg
 image: images/6.jpg
 template: project

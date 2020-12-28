@@ -5,6 +5,7 @@ date: '2019-02-26'
 thumb_image: images/4_thumb.jpg
 image: images/4.jpg
 template: project
+excerpt: Nick nearly dies - but not from what you think!
 ---
 ### Christmas Tree Fights to the Death
 

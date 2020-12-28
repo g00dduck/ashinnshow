@@ -6,8 +6,9 @@ sections:
     type: section_hero
     title: Hi; we're the Shinn's!
     content: >
-      A Shinn Show is a production of Shinnfluence, and features the voices and
-      opinions of the Shinn family (it's... their own opinions, nobody else's).
+      A Shinn Show podcast is a production of Shinnfluence, and features the
+      voices and opinions of the Shinn family (it's... their own opinions,
+      nobody else's).
     actions:
       - label: Let's talk
         url: /contact

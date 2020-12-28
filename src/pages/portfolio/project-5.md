@@ -1,6 +1,6 @@
 ---
 title: Thanksgiving Leftovers
-subtitle: Optional Project Subtitle
+subtitle: Season 5 Episode 9
 date: '2019-01-05'
 thumb_image: images/5_thumb.jpg
 image: images/5.jpg

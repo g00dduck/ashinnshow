@@ -1,7 +1,7 @@
 ---
 title: The Someone Got Elected and Other Weird News Edition!
 subtitle: Season 5 Episode 7
-date: '2018-01-15'
+date: '2020-11-11'
 thumb_image: images/7_thumb.jpg
 image: images/7.jpg
 template: project

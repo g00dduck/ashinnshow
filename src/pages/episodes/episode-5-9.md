@@ -3,13 +3,10 @@ title: Thanksgiving Leftovers
 subtitle: Season 5 Episode 9
 date: '2020-11-25'
 thumb_image: images/hand_turkey.jpg
-image: images/5.jpg
+image: images/hand_turkey.jpg
 template: project
 excerpt: So much old material to be thankful for!
 ---
-### Thanksgiving Leftovers
-
-##### Season 5 Episode 9
 
 So much old material to be thankful for!
 

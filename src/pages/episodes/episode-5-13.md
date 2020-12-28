@@ -1,14 +1,13 @@
 ---
 title: A Very Chiquita Banana Christmas Special
-subtitle: 'You''ll never look at Santa, a banana, or a savings account the same way again!'
+subtitle: Season 5 Episode 13
 date: '2020-12-23'
 thumb_image: images/bananaman.jpeg
-image: images/1.jpg
+image: images/bananaman.jpeg
 template: project
+excerpt: >-
+    'You''ll never look at Santa, a banana, or a savings account the same way again!'
 ---
-### A Very Chiquita Banana Christmas Special
-
-##### Season 5 Episode 13
 
 You'll never look at Santa, a banana, or a savings account the same way again!
 

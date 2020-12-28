@@ -3,15 +3,12 @@ title: Ted Cruze Kills a Sacred Moose
 subtitle: Season 5 Episode 8
 date: '2020-11-18'
 thumb_image: images/CUEIM_Diploma_2-page-001.jpg
-image: images/6.jpg
+image: images/CUEIM_Diploma_2-page-001.jpg
 template: project
 excerpt: >-
   Americans go back to space! The voter fraud hotline shuts down! Someone killed
   a white moose!
 ---
-### Ted Cruze Kills a Sacred Moose
-
-##### Season 5 Episode 8
 
 Americans go back to space! The voter fraud hotline shuts down! Someone killed a white moose! And so much more!
 

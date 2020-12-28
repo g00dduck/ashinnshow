@@ -193,10 +193,10 @@ models:
         required: true
   portfolio:
     type: page
-    urlPath: /portfolio
-    label: Portfolio
+    urlPath: /episodes
+    label: Episodes
     layout: portfolio
-    file: portfolio/index.md
+    file: episodes/index.md
     hideContent: true
     singleInstance: true
     fields:
@@ -227,7 +227,7 @@ models:
     layout: page
     exclude:
       - blog/**
-      - portfolio/**
+      - episodes/**
     fields:
       - type: string
         name: title
@@ -280,20 +280,20 @@ models:
         description: The excerpt of the post displayed in the blog feed and in meta data.
   project:
     type: page
-    urlPath: '/portfolio/{slug}'
-    label: Project
+    urlPath: '/episodes/{slug}'
+    label: Episode
     layout: project
-    folder: portfolio
+    folder: episodes
     fields:
       - type: string
         name: title
         label: Title
-        description: The title of the project
+        description: The title of the episode
         required: true
       - type: string
         name: subtitle
         label: Subtitle
-        description: The text shown just below the project title.
+        description: The text shown just below the episode title.
       - type: string
         name: excerpt
         label: Excerpt
@@ -305,7 +305,7 @@ models:
       - type: image
         name: thumb_image
         label: Featured Image
-        description: The image shown in the project page.
+        description: The image shown in the episode page.
       - type: image
         name: image
         label: Alternative Featured Image

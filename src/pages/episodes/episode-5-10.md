@@ -3,13 +3,10 @@ title: Christmas Tree Fights to the Death
 subtitle: Season 5 Episode 10
 date: '2020-12-02'
 thumb_image: images/CUEIM_Logo.png
-image: images/4.jpg
+image: images/CUEIM_Logo.png
 template: project
 excerpt: Nick nearly dies - but not from what you think!
 ---
-### Christmas Tree Fights to the Death
-
-##### Season 5 Episode 10
 
 Nick nearly dies - but not from what you think!
 

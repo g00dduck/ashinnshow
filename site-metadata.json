@@ -17,6 +17,11 @@
                 "style": "link"
             },
             {
+                "label": "Store",
+                "url": "https://ashinnshow-store-a4f6f.netlify.app/",
+                "style": "link"
+            },
+            {
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"

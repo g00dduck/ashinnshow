@@ -2,7 +2,7 @@
 title: It's a Hanukkah Miracle
 subtitle: Season 5 Episode 12
 date: '2020-12-16'
-thumb_image: images/2_thumb.jpg
+thumb_image: images/17A415D7-DFF9-48F1-BFDB-DFAD55C9B214.jpg
 image: images/2.jpg
 template: project
 excerpt: >-

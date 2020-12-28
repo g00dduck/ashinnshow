@@ -1,5 +1,5 @@
 {
-    "description": "A portfolio theme with a blog",
+    "description": "A Shinn Show podcast website with episode listings and links to social media.",
     "color_scheme": "dark",
     "accent_color": "yellow",
     "header": {
@@ -17,60 +17,76 @@
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
-            },
-            {
-                "label": "About",
-                "url": "/about/",
-                "style": "link"
-            },
-            {
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
-    },
-    "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created on <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Get yours <a href=\"https://app.stackbit.com/create?theme=exto\" target=\"_blank\" rel=\"noopener\">here</a>.",
+        ],
         "has_social": true,
         "social_links": [
             {
+                "label": "Facebook",
+                "url": "https://www.facebook.com/ashinnshow",
+                "style": "icon",
+                "icon_class": "fa-facebook-f",
+                "new_window": true
+            },
+            {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/ashinnshow",
                 "style": "icon",
                 "icon_class": "fa-twitter",
                 "new_window": true
             },
             {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "label": "Spotify",
+                "url": "https://open.spotify.com/show/5f2JfpUc6XMDsJn98062eM?si=yUba6C-yQ36YhEmPy-HCGw",
                 "style": "icon",
-                "icon_class": "fa-instagram",
-                "new_window": true
-            },
-            {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
-                "style": "icon",
-                "icon_class": "fa-dribbble",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon_class": "fa-linkedin",
+                "icon_class": "fa-spotify",
                 "new_window": true
             }
         ]
     },
-    "title": "Stackbit Exto Theme"
+    "footer": {
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created on <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Get yours <a href=\"https://app.stackbit.com/create?theme=exto\" target=\"_blank\" rel=\"noopener\">here</a>.<br/><br/><table><caption>A Shinn Show podcast is a production of Shinnfluence, and features the voices and opinions of the Shinn family, which are <i>exclusively</i> their own.</caption></table>",
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Facebook",
+                "url": "https://www.facebook.com/ashinnshow",
+                "style": "icon",
+                "icon_class": "fa-facebook-f",
+                "new_window": true
+            },
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/ashinnshow",
+                "style": "icon",
+                "icon_class": "fa-twitter",
+                "new_window": true
+            },
+            {
+                "label": "Spotify",
+                "url": "https://open.spotify.com/show/5f2JfpUc6XMDsJn98062eM?si=yUba6C-yQ36YhEmPy-HCGw",
+                "style": "icon",
+                "icon_class": "fa-spotify",
+                "new_window": true
+            },
+            {
+                "label": "Libsyn",
+                "url": "https://directory.libsyn.com/shows/view/id/ashinnshow",
+                "style": "icon",
+                "icon_class": "fa-microphone-alt",
+                "new_window": true
+            },
+            {
+                "label": "RSS",
+                "url": "http://ashinnshow.com/rss",
+                "style": "icon",
+                "icon_class": "fa-rss",
+                "new_window": true
+            }
+        ]
+    },
+    "title": "A Shinn Show Podcast"
 }

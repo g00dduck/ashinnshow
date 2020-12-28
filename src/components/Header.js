@@ -12,12 +12,20 @@ export default class Header extends React.Component {
                 <div className="site-header-inside">
                   <div className="site-branding">
                     {_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img', null) ? (
-                    <p className="site-logo">
+                    <div className="site-logo">
                       <Link to={withPrefix('/')}><img src={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img', null))} alt={_.get(this.props, 'pageContext.site.siteMetadata.header.title', null)} /></Link>
-                    </p>
+                    </div>
                     ) : 
-                    <p className="site-title"><Link to={withPrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title', null)}</Link></p>
+                    <div className="site-title"><Link to={withPrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title', null)}</Link>
+                    </div>
                     }
+                    {_.get(this.props, 'pageContext.site.siteMetadata.header.has_social', null) && (
+                      <div className="social-links">
+                        {_.map(_.get(this.props, 'pageContext.site.siteMetadata.header.social_links', null), (action, action_idx) => (
+                          <ActionLink key={action_idx} {...this.props} action={action} />
+                        ))}
+                      </div>
+                      )}
                   </div>
                   {_.get(this.props, 'pageContext.site.siteMetadata.header.has_nav', null) && (<React.Fragment>
                   <button id="menu-open" className="menu-toggle"><span className="screen-reader-text">Close Menu</span><span className="icon-menu" aria-hidden="true" /></button>

@@ -1,7 +1,7 @@
 ---
 title: A Very Chiquita Banana Christmas Special
 subtitle: 'You''ll never look at Santa, a banana, or a savings account the same way again!'
-date: ''
+date: '2020-12-23'
 thumb_image: images/bananaman.jpeg
 image: images/1.jpg
 template: project

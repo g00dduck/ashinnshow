@@ -1,5 +1,5 @@
 ---
-title: Project Title 2
+title: It's a Hanukkah Miracle
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: images/2_thumb.jpg

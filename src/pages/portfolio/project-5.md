@@ -13,6 +13,6 @@ excerpt: So much old material to be thankful for!
 
 So much old material to be thankful for!
 
-* [Listen Now](https://directory.libsyn.com/episode/index/id/16962563)
+* [Listen Now](https://oembed.libsyn.com/embed?item_id=16962563)
 * [Download Episode](https://traffic.libsyn.com/secure/ashinnshow/A_Shinn_Show_Season_5_9.mp3)
 * [Subscribe](http://ashinnshow.com/rss)

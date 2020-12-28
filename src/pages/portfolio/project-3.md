@@ -13,6 +13,6 @@ excerpt: '    Daryl Scronch returns, Pete accidentally farts, the election conti
 
 Daryl Scronch returns, Pete accidentally farts, the election continues, medical miracle mice, the Church gets a PPP loan, and we TOLD you so!
 
-* [Listen Now](https://directory.libsyn.com/episode/index/id/17132249)
+* [Listen Now](https://oembed.libsyn.com/embed?item_id=17132249)
 * [Download Episode](https://traffic.libsyn.com/secure/ashinnshow/A_Shinn_Show_Season_5_11.mp3)
 * [Subscribe](http://ashinnshow.com/rss)
